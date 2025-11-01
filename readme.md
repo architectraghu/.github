@@ -148,7 +148,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 ## Achievements
 <details>
   <summary><b>&nbsp;Achievements</b></summary>
-  <br/>
+   
 - Architected **end-to-end Azure landing zones** with automated provisioning using **Terraform modules** and **Azure DevOps pipelines**.  
 - Reduced environment setup time from **weeks to hours** through complete **Infrastructure as Code (IaC)** automation.  
 - Built **enterprise-grade CI/CD pipelines** integrating **Azure DevOps**, **GitHub Actions**, and **Jenkins**, achieving **zero-downtime deployments**.  
