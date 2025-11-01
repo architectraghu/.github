@@ -1,11 +1,11 @@
-# Hi, I'm [Raghavendra R](https://www.linkedin.com/in/raghavendracloud/) 👋
+# Hi, I'm [Raghavendra R](https://www.linkedin.com/in/architectraghu/) 👋
 **Cloud Solutions Architect & DevOps Consultant** | **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & Automation Specialist Driving Enterprise Transformation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
 <p>
-  <a href="https://www.linkedin.com/in/ItsKarthikSekar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ItsKarthikSekar-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@itskarthiksekar"><img alt="Medium" src="https://img.shields.io/badge/Medium-@itskarthiksekar-00ab6c?logo=medium&logoColor=white" /></a>
-  <a href="https://x.com/ItsKarthikSekar"><img alt="X" src="https://img.shields.io/badge/X-@ItsKarthikSekar-1DA1F2?logo=x&logoColor=white" /></a>
-  <a href="https://hashnode.com/@ItsKarthikSekar"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@ItsKarthikSekar-2962FF?logo=hashnode&logoColor=white" /></a>
-  <a href="https://github.com/itskarthiksekar"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ItsKarthikSekar-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/architectraghu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-architectraghu-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@architectraghu"><img alt="Medium" src="https://img.shields.io/badge/Medium-@architectraghu-00ab6c?logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/architectraghu"><img alt="X" src="https://img.shields.io/badge/X-@architectraghu-1DA1F2?logo=x&logoColor=white" /></a>
+  <a href="https://hashnode.com/@architectraghu"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@architectraghu-2962FF?logo=hashnode&logoColor=white" /></a>
+  <a href="https://github.com/architectraghu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-architectraghu-181717?logo=github&logoColor=white" /></a>
 </p>
 
 
