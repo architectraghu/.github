@@ -6,11 +6,21 @@
   <a href="https://x.com/architectraghu"><img alt="X" src="https://img.shields.io/badge/X-@architectraghu-1DA1F2?logo=x&logoColor=white" /></a>
   <a href="https://hashnode.com/@architectraghu"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@architectraghu-2962FF?logo=hashnode&logoColor=white" /></a>
   <a href="https://github.com/architectraghu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-architectraghu-181717?logo=github&logoColor=white" /></a>
+  <a href="https://dev.to/architectraghu"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-architectraghu-0A66C2?logo=dev.to&logoColor=white" /></a>
+  <a href="https://www.instagram.com/architectraghu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-architectraghu-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
 
 
 # 💫 About Me:
-- 🔭 I'm currently working on **Developing multiple enterprise-grade Azure use cases with fully operational, ready-to-deploy code and detailed solution architecture documents.Designing real-world cloud implementation scenarios that demonstrate end-to-end DevOps and automation workflows using Azure-native tools.Building a growing library of reusable Terraform modules, CI/CD templates, and reference architectures for practical adoption.Collaborating with AI-driven and DevOps product companies to test, validate, and showcase their innovative tools in real-world environments.Engaging the cloud and DevOps community by presenting these tools and solutions through local chapter meetups, online events, and technical sessions.**<br><br>- 🌱 I'm currently learning **Constantly exploring evolving cloud-native tools and deepening my Python skills to stay sharp and build smarter, automated, and scalable cloud solutions.**<br><br>- 👯 I'm looking to collaborate on **Collaborating with AI-driven and DevOps product companies to test, validate, and showcase their innovative tools in real-world environments.**<br><br>- 🤝 I'm looking for help with **Engaging the cloud and DevOps community by presenting these tools and solutions through local chapter meetups, online events, and technical sessions.**<br><br>- 💬 Ask me about **architecture, Terraform, CI/CD design with Azure DevOps, Jenkins, and GitHub Actions, DevSecOps integration, Monitoring and observability, Cost optimization and scalability design**<br><br>- 📫 How to reach me **rraghavendra243@gmail.com**<br><br>- ⚡ Fun fact **I treat Terraform like LEGO for the cloud — building, breaking, and rebuilding until it’s perfect.**<br>
+
+<p>I’m a  Cloud Solutions Architect & DevOps Consultant focused on Azure,GCP, multi-cloud strategy, and AI-powered automation. I design scalable, secure, and cost-efficient cloud platforms that help enterprises modernize faster using Infrastructure as Code (IaC) and DevOps practices.
+
+- Architecting and delivering enterprise-grade, cloud-native solutions on **Azure**  
+- Building reusable and production-ready infrastructure using **Terraform** and modular design principles  
+- Open to collaborations on **cloud architecture**, **AI integration**, and **DevOps automation**  
+- Passionate about **mentoring** and sharing knowledge on **cloud security**, **automation**, and **IaC best practices**
+</p>
+<br>-  I'm currently working on **building enterprise-grade Azure use cases with ready-to-deploy architectures, reusable Terraform and CI/CD frameworks, while collaborating with AI-driven DevOps product teams to test, validate, and showcase tools through real-world implementations and community events.<br><br>- I'm currently learning Constantly exploring evolving cloud-native tools and deepening my Python skills to stay sharp and build smarter, automated, and scalable cloud solutions.<br><br>- I'm looking to collaborate on Collaborating with AI-driven and DevOps product companies to test, validate, and showcase their innovative tools in real-world environments.<br><br>- I'm looking for help with Engaging the cloud and DevOps community by presenting these tools and solutions through local chapter meetups, online events, and technical sessions.<br><br>- Ask me about architecture, Terraform, CI/CD design with Azure DevOps, Jenkins, and GitHub Actions, DevSecOps integration, Monitoring and observability, Cost optimization and scalability design<br><br>- How to reach me: [Raghavendra R](https://www.linkedin.com/in/architectraghu)<br><br>- Fun fact I treat Terraform like LEGO for the cloud — building, breaking, and rebuilding until it’s perfect.<br>
 
 
 ## 🌐 Socials:
